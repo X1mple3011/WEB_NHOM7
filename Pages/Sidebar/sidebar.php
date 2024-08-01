@@ -1,3 +1,4 @@
+
 <?php
 $sql_danh_muc = "SELECT * FROM tbl_category ORDER BY category_id ASC";
 $query_sql_danh_muc = mysqli_query($conn, $sql_danh_muc);

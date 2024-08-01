@@ -1,7 +1,6 @@
+<link rel="stylesheet" href="./Css/dangnhap.css">
 <?php
-// Khi đẩy dữ liệu đi thì chỉ có dùng post thoi
-// Còn khi lấy dữ liệu trang web thì get hay post cũng được
-// session_start();
+
 if(isset($_POST['user-login'])) {
     $user_username = $_POST['user-username'];
     $user_password = $_POST['user-password'];
