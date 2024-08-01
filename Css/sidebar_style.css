@@ -1,0 +1,35 @@
+.sidebar {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  
+  .sidebar .sidebar-list {
+    padding: 0;
+    margin: 0;
+    border: rgb(79, 142, 230) solid;
+  }
+  
+  .sidebar .sidebar-list li {
+    border: solid rgb(79, 142, 230) 1px;
+    float: left;
+    padding: 0 5px;
+  }
+  
+  .sidebar .sidebar-list li a {
+  
+    text-decoration: none;
+  }
+  
+  .sidebar .sidebar-list li:hover {
+    background: rgb(79, 142, 230);
+  }
+  
+  .sidebar .sidebar-list li:hover a {
+    color: yellow;
+  
+  }
+
+
+  

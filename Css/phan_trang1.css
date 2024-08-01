@@ -1,0 +1,32 @@
+.phan-trang {
+    margin-top: 15px;
+
+}
+
+.list-trang {
+
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.list-trang li {
+    float: left;
+    margin: 0 5px;
+    width: 30px;
+    background-color: rgb(0, 174, 255);
+    text-align: center;
+
+}
+
+.list-trang li a {
+    color: white;
+
+
+
+}
+
+
+.list-trang li:hover {
+    background-color: rgb(122, 34, 204);
+}

@@ -1,0 +1,13 @@
+.header {
+    /* background-image: url("https://pbs.twimg.com/profile_banners/50715793/1360600047/1500x500");
+    background-repeat: repeat-x; */
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(0, 174, 255);
+    height: 100px;
+    text-align: center;
+    /* justify-content: center; */
+    color: white;
+    align-items: center;
+  
+  }
