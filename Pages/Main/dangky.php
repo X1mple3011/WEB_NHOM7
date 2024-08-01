@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./Css/dangky.css">
 <?php
 if (isset($_POST['user-register'])) {
     $user_nickname = $_POST['user-nickname'];
