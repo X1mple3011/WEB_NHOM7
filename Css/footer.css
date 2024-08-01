@@ -1,0 +1,30 @@
+.footer {
+    background-color: rgb(79, 142, 230);
+    /* height: 150px; */
+    
+  }
+  
+  .footer-container {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  footer .footer-container ul {
+    padding: 0;
+    margin-right: 30px;
+  
+  }
+  
+  footer .footer-container ul li a {
+    color: white;
+  }
+  footer .footer-container ul .download-app {
+    display: flex;
+    background-color: white;
+    width: 100%;
+  }
+  
+  
+  
