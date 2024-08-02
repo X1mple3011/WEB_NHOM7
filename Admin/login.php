@@ -27,7 +27,7 @@ if(isset($_POST['admin-login'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin login</title>
-    <link rel="stylesheet" href="../Css/shopping_web_style1.css">
+    <link rel="stylesheet" href="../Css/main_page_style.css">
     <link rel="stylesheet" href="../Css/admin_style.css">
     <style>
         .table-admin-login,
